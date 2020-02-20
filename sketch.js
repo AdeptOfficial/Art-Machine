@@ -27,7 +27,6 @@ let xoff = 0;
 let saveButton;
 let clearButton;
 
-console.log(Math.floor(0.8))
 
 function setup() {
   createCanvas(width, height);
