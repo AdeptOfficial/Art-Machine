@@ -1,5 +1,5 @@
-let width = 800
-let height = 800
+let width = window.innerWidth;
+let height = window.innerHeight;
 let canvasTwo;
 
 let factors = [];
