@@ -22,7 +22,7 @@ setInterval(randomNum, 1000);
 
 console.log(symmetry);
 
-let angle = 360 / 6;
+let angle = 360 / symmetry;
 let xoff = 0;
 let saveButton;
 let clearButton;
