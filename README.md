@@ -1,2 +1,2 @@
 # Art Machine
- Art 151 project 2
+Generate cool art with p5js
